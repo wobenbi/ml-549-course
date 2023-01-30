@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.9",
+    "heartbeatAt": "2023-01-27T15:49:16.991810",
+    "startedAt": "2023-01-27T15:49:16.480156",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "d:\\ml-549-course\\homeworks\\spring23_hw1\\hw1_cifar10_tf.py",
+    "codePath": "homeworks\\spring23_hw1\\hw1_cifar10_tf.py",
+    "git": {
+        "remote": "https://github.com/wobenbi/ml-549-course.git",
+        "commit": "3da699b1348280f8ef32763d7b8d6c3a8cb665f8"
+    },
+    "email": "gty914678451@gmail.com",
+    "root": "D:/ml-549-course",
+    "host": "DESKTOP-IK6GQ5Q",
+    "username": "1",
+    "executable": "F:\\anaconda\\envs\\tf\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3000.0,
+        "min": 0.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3000.0,
+            "min": 0.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 931.4960899353027,
+        "used": 145.90147399902344
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.86115264892578
+    }
+}
